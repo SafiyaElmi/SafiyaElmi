@@ -55,32 +55,6 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
 
 ---
 
-## 💻 Projects  
-
-### 🏠 IzikoLethu Student Housing System  
-Full-stack web application built using **HTML, CSS, JavaScript, PHP, and MySQL**.  
-Focused on creating a functional system for managing student housing.
-
----
-
-### 🌍 NGO Website (Future Warriors)  
-A simple web application built with **HTML, CSS, and JavaScript**.  
-Focused on presenting information clearly and improving user experience.
-
----
-
-### 🎨 Uber UI/UX Redesign  
-Designed wireframes and interactive prototypes using **Figma**.  
-Focused on improving layout, usability, and user interaction.
-
----
-
-### 🎓 Student Course Enrolment System  
-Java-based application applying **Object-Oriented Programming (OOP)** principles.  
-Focused on building structured and maintainable application logic.
-
----
-
 ## 📈 GitHub Stats  
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafiyaElmi&theme=radical)  
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SafiyaElmi&theme=radical)  
