@@ -55,6 +55,15 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
 
 ---
 
+## 📹 Mock Interview Video
+
+<video width="600" controls>
+  <source src="assets/portfolio-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 📈 GitHub Stats  
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafiyaElmi&theme=radical)  
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SafiyaElmi&theme=radical)  
@@ -66,3 +75,12 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safiya-elmi-795771309)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safiyamelmi19@gmail.com)  
+
+---
+
+## 📇 References  
+
+| Name | Job Title & Organization | Email | Phone | Relationship |
+|------|-------------------------|-------|-------|-------------|
+| Ms. Safeyah Essop | Mathematics Educator, Cravenby Combined School | safessop@gmail.com | 0825791876 | Mathematics Educator |
+| Ms. Faduma Elmi | Escalation Support Agent, Flash Mobile Vending | faduma.elmi@flash.co.za | 0665726448 | Sister |
