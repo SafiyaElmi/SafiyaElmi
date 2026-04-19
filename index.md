@@ -48,7 +48,7 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
 
 ---
 
-## 🎨 Design Tools  
+### 🎨 Design Tools  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Wireframe.cc](https://img.shields.io/badge/Wireframe.cc-000000?style=for-the-badge)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -61,6 +61,39 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
   <source src="mockvideo/Mock_Interview_of_Safiya_Elmi.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+---
+
+## 📝 Reflection
+### Coding in Markdown
+#### Situation:
+Coding in Markdown was new to me, and I was required to create my CV using this format for my GitHub portfolio.
+#### Task:
+I needed to learn how to use Markdown syntax and apply it to structure my CV.
+#### Action:
+I watched tutorial videos and used online resources to understand how Markdown works. I practiced using the features while building my CV.
+#### Result:
+I was able to successfully create my CV using Markdown, improved my technical skills and gained confidence in using a new formatting language.
+
+### Mock Interview Video
+#### Situation:
+I was required to record a mock interview video.
+#### Task:
+I needed to answer interview questions clearly and present myself professionally on camera.
+#### Action:
+I found it difficult to record myself and respond confidently, so I recorded multiple takes, allowing me to choose the best version.
+#### Result:
+I was able to produce a suitable video for my portfolio.
+
+### GitHub Pages
+#### Situation:
+I needed to deploy my GitHub portfolio using GitHub Pages.
+#### Task:
+My goal was to successfully publish my portfolio online so it could be accessed through a live link.
+#### Action:
+I found this process challenging, so I followed step-by-step tutorials and tested the deployment multiple times. 
+#### Result:
+I successfully deployed my portfolio using GitHub Pages.
 
 ---
 
