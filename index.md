@@ -105,6 +105,70 @@ I successfully deployed my portfolio using GitHub Pages.
 
 ---
 
+### Agile Charter
+
+#### Situation:
+I was required to create an Agile Charter as part of the project deliverables.
+
+#### Task:
+My task was to contribute to the completion of the Agile Charter and work together with my group members to organise the project information.
+
+#### Action:
+The work was divided among the group members, and I contributed to the development of the document by assisting with completing and organising the required information according to the project guidelines.
+
+#### Result:
+We successfully completed the Agile Charter, and I gained a better understanding of Agile planning and project documentation.
+
+---
+
+### Agile Logbook
+
+#### Situation:
+I was required to complete an Agile Logbook as part of the project documentation.
+
+#### Task:
+My task was to record my individual progress, tasks completed, and experiences during the project.
+
+#### Action:
+I completed the logbook by documenting the work I had done during the project and reflecting on the tasks and challenges I experienced while working on the portfolio.
+
+#### Result:
+I was able to complete the Agile Logbook successfully and gained a better understanding of the importance of documenting progress during a project.
+
+---
+
+### Graduate Attributes Document
+
+#### Situation:
+I was required to complete a Graduate Attributes document for WPBL and eWIL as part of the portfolio requirements.
+
+#### Task:
+My task was to reflect on the graduate attributes I developed throughout the project and present evidence of my learning and skills.
+
+#### Action:
+I reviewed my experiences during the project and connected them to graduate attributes such as communication, problem-solving, adaptability, and technical skills. I then organised the information into the required document format.
+
+#### Result:
+I successfully completed the Graduate Attributes document and gained a better understanding of my personal and professional development.
+
+---
+
+### Adding Documents to README and Deploying with GitHub Pages
+
+#### Situation:
+I needed to add project documents to my GitHub README and publish the portfolio using GitHub Pages.
+
+#### Task:
+My goal was to upload the files correctly, create working Markdown links, and ensure the portfolio was accessible online.
+
+#### Action:
+I uploaded the documents to my repository, created Markdown links for each file, and tested the links multiple times. I also resolved file path issues by correcting the folder structure and redeploying the site.
+
+#### Result:
+I successfully deployed my GitHub portfolio, and all project documents became accessible through GitHub Pages.
+
+---
+
 ## 📈 GitHub Stats  
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafiyaElmi&theme=radical)  
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SafiyaElmi&theme=radical)  
