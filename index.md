@@ -103,8 +103,6 @@ I found this process challenging, so I followed step-by-step tutorials and teste
 #### Result:
 I successfully deployed my portfolio using GitHub Pages.
 
----
-
 ### Agile Charter
 
 #### Situation:
@@ -118,8 +116,6 @@ The work was divided among the group members, and I contributed to the developme
 
 #### Result:
 We successfully completed the Agile Charter, and I gained a better understanding of Agile planning and project documentation.
-
----
 
 ### Agile Logbook
 
@@ -135,8 +131,6 @@ I completed the logbook by documenting the work I had done during the project an
 #### Result:
 I was able to complete the Agile Logbook successfully and gained a better understanding of the importance of documenting progress during a project.
 
----
-
 ### Graduate Attributes Document
 
 #### Situation:
@@ -150,8 +144,6 @@ I reviewed my experiences during the project and connected them to graduate attr
 
 #### Result:
 I successfully completed the Graduate Attributes document and gained a better understanding of my personal and professional development.
-
----
 
 ### Adding Documents to README and Deploying with GitHub Pages
 
