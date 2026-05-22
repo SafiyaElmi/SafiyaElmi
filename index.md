@@ -66,9 +66,9 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
 
 ## 📁 Project Documents
 
-- [View Agile Charter Document](Agile_Charter.pdf)  
-- [View Agile Logbook Document](Agile_Logbook.pdf)  
-- [View Graduate Attributes for WPBL and eWIL Document](Graduate_Attributes_for_WPBL_and_eWIL.pdf)
+- [View Agile Charter Document](root/Agile_Charter.pdf)  
+- [View Agile Logbook Document](root/Agile_Logbook.pdf)  
+- [View Graduate Attributes for WPBL and eWIL Document](root/Graduate_Attributes_for_WPBL_and_eWIL.pdf)
 
 ---
 
