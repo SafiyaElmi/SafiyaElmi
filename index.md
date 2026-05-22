@@ -58,9 +58,17 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
 ## 📹 Mock Interview Video
 
 <video width="600" controls>
-  <source src="mockvideo/Mock_Interview_of_Safiya_Elmi.mp4" type="video/mp4">
+  <source src="root/Mock_Interview_of_Safiya_Elmi.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+---
+
+## 📁 Project Documents
+
+- [View Agile Charter Document](Agile_Charter.pdf)  
+- [View Agile Logbook Document](Agile_Logbook.pdf)  
+- [View Graduate Attributes for WPBL and eWIL Document](Graduate_Attributes_for_WPBL_and_eWIL.pdf)
 
 ---
 
