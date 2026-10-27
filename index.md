@@ -64,7 +64,7 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
 - [View Count4U Wireframe](root/Count4U_Wireframes_Low_and_High_Fidelity.pdf)
 - [View Trello Board](https://trello.com/b/3AEo0Yy0)
 - [View Count4U Website](https://count4u.liveblog365.com/)
-- [View Count4U PowerPoint Presentation](root/Count4U.pptx)
+- [View Count4U PowerPoint Presentation](root/Count4U.pdf)
 
 ---
 
