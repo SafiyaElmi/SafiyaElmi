@@ -55,20 +55,16 @@ I am passionate about creating **user-friendly interfaces**, working with **web 
 
 ---
 
-## 📹 Mock Interview Video
-
-<video width="600" controls>
-  <source src="root/Mock_Interview_of_Safiya_Elmi.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
 ## 📁 Project Documents
 
-- [View Agile Charter Document](root/Agile_Charter.pdf)  
-- [View Agile Logbook Document](root/Agile_Logbook.pdf)  
-- [View Graduate Attributes for WPBL and eWIL Document](root/Graduate_Attributes_for_WPBL_and_eWIL.pdf)
+- [View Count4U Agile Charter Document](root/Count4U_Agile_Charter.pdf)  
+- [View Count4U Business Case Document](root/Count4U_Business_Case.pdf)  
+- [View Count4U Business Model Document](root/Count4U_Business_Model.pdf)
+- [View Count4U Solution Architecture Document](root/Count4U_Solution_Architecture.png)
+- [View Count4U Wireframe](root/Count4U_Wireframes_Low_and_High_Fidelity.pdf)
+- [View Trello Board](https://trello.com/b/3AEo0Yy0)
+- [View Count4U Website](https://count4u.liveblog365.com/)
+- [View Count4U PowerPoint Presentation](root/Count4U.pptx)
 
 ---
 
